@@ -1,20 +1,22 @@
 # Rust Turkiye - Rust Dersleri
-[CURIOSITY - Featuring Richard Feynman](https://youtu.be/UjEngEpiJKo)
+Rust Türkiyenin hazırladığı Rust Derslerinde edindiğim tecrübeleri yazacağım repoya hoşgeldin! Ben Muhammed Mustafa(muffafa) Savar
 
-Bu repo Rust Turkiye tarafindan duzenlenen `Rust Dersleri` egitiminin
-alistirma ve konu anlatim parcaciklarini icerir.
-
-### Kurs Formati ve Hedef Kitlesi
-
-Hedef Kitle Rust'a yeni baslayan ve matematik bilgisi olan kisiler icindir.
-Egitimler 8 haftaya yayilacaktir.
-8 haftanin sonunda verilen proje odevi gecis notu sayilacaktir.
-Bu projeyi 1 hafta icinde belirtilecek sisteme yuklemeniz gerekmektedir.
+Bu arada ders anlatimlarindaki  sayisi o asamanin zorlugunu gosterir.
+: Basit
+: Dikkat et
+: Calisman lazim
+: Kesinlikle cok pratik yapman lazim
 
 ### Gereksinimler
-1. Rust'i yuklemek icin bu adimlari izleyin: https://www.rust-lang.org/tr/tools/install
-2. Kendinizi rahat hissedeceginiz bir IDE veya kod editorunu sisteminize yukleyin.
-
+1. Micrsoft marketplaceden Ubuntu yu ve WSL'i indirin (windows featuresdan da açmanın gerekiyor ): https://learn.microsoft.com/en-us/windows/wsl/install
+2. Rust'i yuklemek icin bu adimlari izleyin: https://www.rust-lang.org/tr/tools/install
+3. Vscode u indirin ve bu extensionları kurun.
+WSL 
+rust-analyzer
+BetterToml
+4. aşağıdaki komutları ubuntuda çalıştırın
+cargo install cargo-watch
+cargo watch --clear
 
 ### Iletisim
 Iletisim icin Rust Turkiye Discord'unu kullanabilirsiniz: https://linktr.ee/RustTurkey
