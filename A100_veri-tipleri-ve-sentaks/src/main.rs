@@ -1,5 +1,5 @@
+#![allow(non_snake_case)]
 // ✨ Asama 1. Merhaba 🌍!
-
 // Her rust programi entrypoint dedigimiz fonksiyondan olusur.
 // `main` isimli fonksiyon programin baslama noktasidir.
 //
