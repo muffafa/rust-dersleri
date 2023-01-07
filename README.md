@@ -1,11 +1,11 @@
 # Rust Turkiye - Rust Dersleri
 Rust Türkiyenin hazırladığı Rust Derslerinde edindiğim tecrübeleri yazacağım repoya hoşgeldin! Ben Muhammed Mustafa(muffafa) Savar
 
-Bu arada ders anlatimlarindaki  sayisi o asamanin zorlugunu gosterir.
-: Basit
-: Dikkat et
-: Calisman lazim
-: Kesinlikle cok pratik yapman lazim
+Ders anlatimlarindaki ✨ sayisi o asamanin zorlugunu gosterir.
+✨: Basit
+✨✨: Dikkat et
+✨✨✨: Calisman lazim
+✨✨✨✨: Kesinlikle cok pratik yapman lazim
 
 ### Gereksinimler
 1. Micrsoft marketplaceden Ubuntu yu ve WSL'i indirin (windows featuresdan da açmanın gerekiyor ): https://learn.microsoft.com/en-us/windows/wsl/install
